@@ -1,0 +1,16 @@
+{
+    "connection": {
+        "moonraker_url": "http://cow.vip:7125",
+        "moonraker_token": "",
+        "bot_token": "MTA1NTUyNDA0MDIxNjk0NDY5MA.G2taFg.-Gt1Cx5PM7Q5EvLllb2gq4UmqjCJv6IH_7lab0"
+    },
+    "permission": {
+        "controllers": {
+            "users": "96074241471971328"
+        }
+    },
+    "webcam": {
+        "url": "http://192.168.1.225/webcam/?action=snapshot"
+    },
+    "tmp_path": "/tmp/MoonCord"
+}
