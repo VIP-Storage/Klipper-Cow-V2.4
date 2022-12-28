@@ -21,3 +21,4 @@ mjpg-streamer/
 oprint/
 printer-*.cfg
 *.bkp
+mooncord.json
